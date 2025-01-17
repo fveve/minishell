@@ -1,7 +1,7 @@
-# **Project Name**
+# **Minishell**
 
 ### **Description**  
-A simple shell implementation that supports basic commands, pipes, and redirections.
+Minishell is a simple shell implementation that supports basic commands, pipes, and redirections.
 
 ---
 
